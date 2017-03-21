@@ -17,7 +17,9 @@ if you need to download android studio please see this link: [Android Studio](ht
 
 ## Given more time I would:
 
-I'd like to add icons for the different weather types
+Add icons for the different weather types
+
+Display more information to the user
 
 Update the App icon
 
