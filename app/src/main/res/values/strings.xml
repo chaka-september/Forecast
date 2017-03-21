@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="forecast">Forecast</string>
+    <string name="temperature" formatted="false">Temperature: %.2f°c</string>
+    <string name="error_location_unavailable">Location unavailable</string>
+    <string name="error_location_permission_required">Location permission required</string>
+    <string name="error_forecast_unavailable">Forecast unavailable</string>
+</resources>
