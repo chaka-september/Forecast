@@ -1,8 +1,8 @@
-#Forecast
+# Forecast
 
 A weather app, which displays the 5day forecast for your current location
 
-##Steps to run
+## Steps to run
 
 I'm assuming Android studio has been downloaded and installed correctly with a suitable SDK
 if you need to download android studio please see this link: [Android Studio](https://developer.android.com/studio/index.html)
@@ -15,7 +15,7 @@ if you need to download android studio please see this link: [Android Studio](ht
 6. Attach device or create emulator
 6. Run app and choose which device/emulator you'd like to run the app on
 
-##Given more time I would:
+## Given more time I would:
 
 I'd like to add icons for the different weather types
 
